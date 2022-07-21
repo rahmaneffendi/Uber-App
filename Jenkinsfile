@@ -1,7 +1,7 @@
 
 
 def secret = 'github'
-def server = 'rahman@34.218.238.52'
+def server = 'rahmanapp@34.218.238.52'
 def directory = 'Uber-App'
 def branch = 'main'
 
